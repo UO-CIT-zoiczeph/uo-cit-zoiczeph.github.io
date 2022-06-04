@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## CIT 281
 
-You can use the [editor on GitHub](https://github.com/UO-CIT-zoiczeph/uo-cit-zoiczeph.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Projects
+1. Command Line
+2. GIT & JavaScript
+3. Calculating Coinage
+4. REST API & Fastify
+5. Monster Game (Extra Credit)
+6. Classes & Inheritance
+7. Create CIT Minor Portfolio Site
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UO-CIT-zoiczeph/uo-cit-zoiczeph.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Labs
+1. Initial Setup
+2. Intro to GIT
+3. Arrays, Arrow Functions & Objects
+4. Intro to Fastify
+5. Intro to Postman
+6. Intro to Classes
+7. Intro to GitHub
+8. .then() & .catch()
+9. Intro to GitHub Release Based Workflows
