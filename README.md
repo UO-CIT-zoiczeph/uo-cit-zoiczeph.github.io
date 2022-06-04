@@ -1,5 +1,7 @@
 ## CIT 281
 
+![rob-bates-kpXwjzSUUfc-unsplash](https://user-images.githubusercontent.com/58126966/171986236-be6cc0fc-e445-421c-9e69-9763d421bbe9.jpg)
+
 ### Projects
 1. Command Line
 2. GIT & JavaScript
